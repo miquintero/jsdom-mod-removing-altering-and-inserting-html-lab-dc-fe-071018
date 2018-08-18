@@ -3,7 +3,6 @@ main.remove()
 /* Create your new element here and assign it to newHeader */
 const newHeader = null;
 
-let newHeader = document.createElement("h1");
-newHeader.innerText = Alexa is the champion; 
+let newHeader = document.createElement("h1#victory");
+newHeader.innerText = Alexa is the champion;
 body.appendChild(newHeader)
-
