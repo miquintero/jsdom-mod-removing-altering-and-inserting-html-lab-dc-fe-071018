@@ -4,7 +4,7 @@ main.remove()
 const newHeader = null;
 var body = document.createElement("newHeader")
 for (let i = 0; i < 0; i++) {
-  let newHeader = document.createElement('H1')
+  let newHeader = document.createElement('h1#victory')
   newHeader.innerHTML = (i + 1).toString()
   body.appendChild(H1)
 }
