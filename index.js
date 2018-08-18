@@ -2,4 +2,4 @@
 main.remove()
 /* Create your new element here and assign it to newHeader */
 const newHeader = null;
-document.createElement(H1)
+var element = document.createElement("H1")
